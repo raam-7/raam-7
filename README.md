@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me (Live Typing Intro)
+## 🚀 About Me
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=800&lines=AIML+Student+at+Symbiosis+International+University;Healthcare+AI+Explorer;XGBoost+%7C+Deep+Learning+%7C+ML+Pipelines;Full+Stack+System+Builder;Always+Learning+%F0%9F%9A%80" />
@@ -21,9 +21,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,php,mysql,tensorflow,pytorch,sklearn,git,github,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,php,mysql,tensorflow,pytorch,sklearn,git,github,vscode" />
 </p>
 
 ---
@@ -31,8 +29,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raam-7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raam-7&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=raam-7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raam-7&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
 </p>
 
 ---
@@ -45,10 +43,10 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/raam-7/raam-7/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -71,10 +69,3 @@
     <img src="https://img.shields.io/badge/Gmail-FF0066?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/raam-7/raam-7/output/github-contribution-grid-snake.svg" />
-</p>
-
