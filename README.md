@@ -5,8 +5,9 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Z6dWQ1M2V0aXk3bWg2M3RjY3N0bG5pM2E3bGZ3eDNzZHRnZDJ5eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
 </p>
+
 ---
 
 ## 🚀 About Me
