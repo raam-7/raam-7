@@ -71,3 +71,10 @@
     <img src="https://img.shields.io/badge/Gmail-FF0066?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/raam-7/raam-7/output/github-contribution-grid-snake.svg" />
+</p>
+
