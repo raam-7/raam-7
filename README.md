@@ -48,7 +48,6 @@
   <img src="https://raw.githubusercontent.com/raam-7/raam-7/output/github-contribution-grid-snake.svg" />
 </p>
 
-
 ---
 
 ## 🚀 Featured Projects
