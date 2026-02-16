@@ -1,59 +1,73 @@
-# Hi 👋 I'm Raam Bhanushali
-
-## 🚀 AI/ML Engineer | Full Stack Developer
-
-A passionate AIML student building intelligent web applications and scalable systems.
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Raam+Bhanushali;AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Building+Intelligent+Systems" />
+</h1>
 
 ---
 
-## 👨‍💻 About Me
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
 
-- 🎓 AIML Student at Symbiosis International University
-- 🧠 Working on Machine Learning & AI projects
-- 🌐 Building full-stack web applications
-- 📊 Interested in Data Science & Reinforcement Learning
+---
+
+## 🚀 About Me (Live Typing Intro)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=800&lines=AIML+Student+at+Symbiosis+International+University;Healthcare+AI+Explorer;XGBoost+%7C+Deep+Learning+%7C+ML+Pipelines;Full+Stack+System+Builder;Always+Learning+%F0%9F%9A%80" />
+</p>
 
 ---
 
 ## 🛠 Tech Stack
 
-### Programming
-- Python
-- Java
-- JavaScript
+<p align="center">
 
-### Web Development
-- React
-- PHP
-- MySQL
-- Node.js
+<img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,php,mysql,tensorflow,pytorch,sklearn,git,github,vscode" />
 
-### Machine Learning
-- Scikit-learn
-- XGBoost
-- Pandas
-- NumPy
+</p>
 
 ---
 
-## 🎯 Current Focus
+## 📊 GitHub Analytics
 
-- 🔹 AI Disease Prediction System
-- 🔹 Image Recognition Models
-- 🔹 Backend Authentication Systems
-- 🔹 Advanced ML Pipelines
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raam-7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raam-7&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
-![Raam's GitHub stats](https://github-readme-stats.vercel.app/api?username=raam-7&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=raam-7&theme=tokyonight&hide_border=true"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raam-7&layout=compact&theme=tokyonight)
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=AI+Disease+Prediction;Kodeless+Website+Builder;2Fast2Hack+Platform;Image+Recognition+Systems" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn:[ https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/raambhanushali/)
-  
+<p align="center">
+  <a href="YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-FF0066?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
