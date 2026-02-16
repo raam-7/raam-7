@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi 👋 I'm Raam Bhanushali
 
-<!--
-**raam-7/raam-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 AI/ML Engineer | Full Stack Developer
 
-Here are some ideas to get you started:
+A passionate AIML student building intelligent web applications and scalable systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 AIML Student at Symbiosis International University
+- 🧠 Working on Machine Learning & AI projects
+- 🌐 Building full-stack web applications
+- 📊 Interested in Data Science & Reinforcement Learning
+
+---
+
+## 🛠 Tech Stack
+
+### Programming
+- Python
+- Java
+- JavaScript
+
+### Web Development
+- React
+- PHP
+- MySQL
+- Node.js
+
+### Machine Learning
+- Scikit-learn
+- XGBoost
+- Pandas
+- NumPy
+
+---
+
+## 🎯 Current Focus
+
+- 🔹 AI Disease Prediction System
+- 🔹 Image Recognition Models
+- 🔹 Backend Authentication Systems
+- 🔹 Advanced ML Pipelines
+
+---
+
+## 📊 GitHub Stats
+
+![Raam's GitHub stats](https://github-readme-stats.vercel.app/api?username=raam-7&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raam-7&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn:[ https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/raambhanushali/)
+  
